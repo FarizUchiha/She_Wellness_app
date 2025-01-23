@@ -1,0 +1,74 @@
+name: she_wellness_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: ^3.1.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  supabase_flutter: ^2.8.3
+  url_launcher: ^6.0.9
+  english_words: ^4.0.0
+  provider: ^6.0.0
+
+  video_player: ^2.4.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/header_background.jpg
+    - assets/instructor1.jpg
+    - assets/pilates.jpg
+    - assets/instructor2.jpg
+    - assets/yoga.jpg
+    - assets/instructor3.jpg
+    - assets/nutrition.jpg
+    - assets/instructor4.jpg
+    - assets/mentalheal.jpg
+    - assets/location1.jpg
+    - assets/map1.jpg
+    - assets/location2.jpg
+    - assets/map2.jpg
+    - assets/location3.jpg
+    - assets/map3.jpg
+    - assets/yoga2.jpg
+    - assets/pilate2.jpg  
+    - assets/eating-healthy.jpg
+    - assets/mental-health.jpg
+    - assets/profileimg.jpg
+    - assets/images/header_image.jpg
+    - assets/images/diet.png
+    - assets/images/mental_health.jpg
+    - assets/images/fitness.jpg
+    - assets/images/immune_system.jpg
+    - assets/images/pilates.png
+    - assets/images/mental_health_1.jpg
+    - assets/videos/diet_video.MP4
+    - assets/videos/mental_health_video.MP4
+    - assets/videos/fitness_video.MOV
+    - assets/videos/immune_system_video.MP4
+    - assets/user1.jpg
+    - assets/user2.jpg
+    - assets/user3.jpg
+    - assets/user4.jpg
+    - assets/user5.jpg
+    - assets/assets/yoga.jpg
+    - assets/assets/pilates.jpg
+    - assets/assets/eating-healthy.jpg
+    - assets/assets/mental-health.jpg
+    - assets/assets/yoga-session.jpg
+    - assets/assets/pilates-session.jpg
+    - assets/assets/eat-healthy-session.jpg
+    - assets/assets/mental-health-session.jpg
+
