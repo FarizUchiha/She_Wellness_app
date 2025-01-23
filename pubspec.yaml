@@ -63,6 +63,18 @@ flutter:
     - assets/user3.jpg
     - assets/user4.jpg
     - assets/user5.jpg
+
+    - assets/yoga.jpg
+    - assets/pilates.jpg
+    - assets/eating-healthy.jpg
+    - assets/mental-health.jpg
+    - assets/yoga-session.jpg
+    - assets/pilates-session.jpg
+    - assets/eat-healthy-session.jpg
+    - assets/mental-health-session.jpg
+    - assets/pilates-class.jpg
+    - assets/yoga-class.jpg
+
     - assets/assets/yoga.jpg
     - assets/assets/pilates.jpg
     - assets/assets/eating-healthy.jpg
